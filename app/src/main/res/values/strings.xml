@@ -1,0 +1,11 @@
+<resources>
+
+    <string name="app_name">Defense Commander App</string>
+    <string name="background">Background</string>
+    <string name="base1">base1</string>
+    <string name="base2">base2</string>
+    <string name="base_3">base 3</string>
+    <string name="titleimage">titleimage</string>
+    <string name="endofgame">endofGame</string>
+    <string name="exit">EXIT</string>
+</resources>
