@@ -20,8 +20,18 @@ Project Description :
 (nearly transparent) to the highest of 0.9 (nearly opaque) and then back again from 0.9 down to 0.25 – repeatedly. 
 This should continue for the duration of the game.
 
-Screes:
+Tools Used :
+Android Studio 4.0
 
+Language : 
+Java 11
+
+Running Device :
+Nexus 5 API 29
+
+Screenshots :
+
+1. Loading Image of Defense-Commander-App  ![Loading Image](images/Loadingimage#1)
 
 
 
