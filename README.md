@@ -20,18 +20,23 @@ Project Description :
 (nearly transparent) to the highest of 0.9 (nearly opaque) and then back again from 0.9 down to 0.25 – repeatedly. 
 This should continue for the duration of the game.
 
-*Tools Used : *
+* Tools Used :  *
   Android Studio 4.0
 
 * Language :  *
   Java 11
 
-*Running Device :*
+* Running Device :*
   Nexus 5 API 29
 
 *Screenshots :*
 
-1. Loading Image of Defense-Commander-App  ![Screen Capture #1](images/Number1.PNG)
+1. Loading Image <br> <br> ![Screen Capture #1](images/Number1.PNG)
+2. Fading Image <br> <br> ![Screen Capture #2](images/Number2.PNG)
+3. Game Started <br> <br> ![Screen Capture #3](images/Number3.PNG)
+4. Level Increasing <br> <br> ![Screen Capture #4](images/Number4.PNG)
+5. Top 10 Score from Remote Database <br> <br> ![Screen Capture #5](images/Number5.PNG)
+6. Game Over <br> <br> ![Screen Capture #6](images/Number6.PNG)
 
 
 
